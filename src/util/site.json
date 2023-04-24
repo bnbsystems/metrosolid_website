@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "title": "Metro Solid",
+    "titleTemplate": "%s",
+    "description": "Metro Solid",
+    "siteUrl": "https://metrosolid.com",
+    "image": "/assets/aoperat-logo-transparent.png",
+    "iconimage": "/assets/aoperat-logo-transparent.png"
+  },
+  "ga": "UA-XXXXXXXXX-X"
+}
